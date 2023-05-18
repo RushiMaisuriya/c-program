@@ -1,0 +1,6 @@
+#include<iostream.h>
+int mian ()
+{
+cout<<"hello world";
+return 0;
+}
